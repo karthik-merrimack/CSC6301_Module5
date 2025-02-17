@@ -34,12 +34,6 @@ javac SortedStack.java
 After successful compilation, execute the program with:
 java SortedStack
 
-### Generate Javadoc (Optional)
-
-To generate the documentation, run:
-
-```bash
-javadoc -d docs SortedStack.java
 
 ## Sample Usage
 Input Example:
@@ -47,5 +41,13 @@ Enter integer numbers separated by spaces. To finish, enter any non-integer inpu
 5 3 8 1 2 a
 Sorted stack:
 1 2 3 5 8 
+
+### Generate Javadoc (Optional)
+
+To generate the documentation, run:
+
+```bash
+javadoc -d docs SortedStack.java
+
 
 
