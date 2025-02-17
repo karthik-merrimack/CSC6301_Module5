@@ -36,10 +36,12 @@ java SortedStack
 
 
 ## Sample Usage
-Input Example:
+**Input Example:**
+
 Enter integer numbers separated by spaces. To finish, enter any non-integer input:
 5 3 8 1 2 a
-Sorted stack:
+
+**Sorted stack:**
 1 2 3 5 8 
 
 ### Generate Javadoc (Optional)
